@@ -1,4 +1,4 @@
-module github.com/lincolngondin/desafio-criptografia
+module github.com/ReisLuizito/desafio-criptografia
 
 go 1.22.2
 
